@@ -130,7 +130,7 @@ If we had more time we would like to add more options to our Customer menu and t
 
 ![image](https://github.com/1zgi/Hepsi-Surada/assets/102370613/06f358f0-51a3-478d-9d1f-943966ac2d7a)
 
-Görkem KARABAY 201811039
+Görkem KARABAY
 
-İzgi KANATLI 201827004
+İzgi KANATLI
 
